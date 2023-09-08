@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.new-modal{
+.modal-header{
 	background-color:#808080;
 	height:500px;
 	width:600px;
@@ -20,7 +20,7 @@
 	margin-top:90px;
 	padding-left:50px;
 }
-.new-modal-1{
+.modal-dailog{
 	padding-left:60px;
 	border-redion:0px;
 	font-size:14px;
