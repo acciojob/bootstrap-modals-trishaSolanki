@@ -1,2 +1,36 @@
 
 /* Your CSS Code here. */
+.new-modal{
+	background-color:#808080;
+	height:500px;
+	width:600px;
+}
+#open-modal{
+	background-color:blue;
+	color:white;
+	height:40px;
+}
+.modal-body{
+	background-color:white;
+	height:190px;
+	width:380px;
+	align-items:center;
+}
+#new-modal-1{
+	margin-top:90px;
+	padding-left:60px;
+}
+.new-modal-1{
+	padding-left:60px;
+	border-redion:0px;
+	font-size:14px;
+}
+.modal-footer{
+	padding-left:300px;
+}
+.btn-secondary{
+	background-color:#6A757D;
+	color:white;
+	height:30px;
+	width:60px;
+}
